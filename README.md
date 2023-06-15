@@ -1,0 +1,1 @@
+![general workflow](https://github.com/elusivenode/zero2prod/actions/workflows/general.yml/badge.svg)
